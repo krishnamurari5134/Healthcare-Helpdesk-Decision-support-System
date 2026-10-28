@@ -1,0 +1,8 @@
+__pycache__/
+.pytest_cache/
+.streamlit/
+*.pyc
+helpdesk.db
+models/*.pkl
+docs/*.png
+docs/*.txt

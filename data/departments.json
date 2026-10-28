@@ -1,0 +1,68 @@
+[
+  {
+    "name": "General Medicine",
+    "floor": "Ground Floor, Room 101",
+    "opd_timing": "9:00 AM - 4:00 PM",
+    "description": "Primary healthcare and general consultations."
+  },
+  {
+    "name": "Cardiology",
+    "floor": "First Floor, Room 202",
+    "opd_timing": "10:00 AM - 3:00 PM",
+    "description": "Heart care and cardiovascular diagnostics."
+  },
+  {
+    "name": "Neurology",
+    "floor": "First Floor, Room 205",
+    "opd_timing": "9:30 AM - 2:00 PM",
+    "description": "Brain, spine, and nerve disorders."
+  },
+  {
+    "name": "Orthopedics",
+    "floor": "Ground Floor, Room 104",
+    "opd_timing": "9:00 AM - 5:00 PM",
+    "description": "Bone, joint, and fracture treatments."
+  },
+  {
+    "name": "Emergency",
+    "floor": "Ground Floor, Casualty Gate 1",
+    "opd_timing": "24/7 Open",
+    "description": "Trauma and critical care emergency services."
+  },
+  {
+    "name": "Pediatrics",
+    "floor": "Ground Floor, Room 108",
+    "opd_timing": "9:00 AM - 3:00 PM",
+    "description": "Child and infant healthcare."
+  },
+  {
+    "name": "ENT",
+    "floor": "First Floor, Room 210",
+    "opd_timing": "10:00 AM - 4:00 PM",
+    "description": "Ear, nose, and throat specialist care."
+  },
+  {
+    "name": "Dermatology",
+    "floor": "First Floor, Room 212",
+    "opd_timing": "10:00 AM - 2:00 PM",
+    "description": "Skin, hair, and allergy treatments."
+  },
+  {
+    "name": "Gynecology",
+    "floor": "First Floor, Room 215",
+    "opd_timing": "9:00 AM - 3:00 PM",
+    "description": "Women health and maternity care."
+  },
+  {
+    "name": "Radiology/Lab",
+    "floor": "Basement Level 1",
+    "opd_timing": "8:00 AM - 8:00 PM",
+    "description": "X-Ray, MRI, CT scan and blood pathology lab."
+  },
+  {
+    "name": "Billing",
+    "floor": "Ground Floor Reception Lobby",
+    "opd_timing": "8:00 AM - 8:00 PM",
+    "description": "Fee payments, billing assistance, and insurance desk."
+  }
+]

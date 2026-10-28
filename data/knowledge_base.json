@@ -1,0 +1,59 @@
+[
+  {
+    "id": 1,
+    "intent": "symptom_guidance",
+    "question": "stomach pain fever vomiting",
+    "keywords": "stomach pain fever",
+    "answer": "For general symptoms like fever or stomach pain, stay hydrated and consult General Medicine."
+  },
+  {
+    "id": 2,
+    "intent": "emergency",
+    "question": "chest pain breathing difficulty emergency",
+    "keywords": "chest pain breathing",
+    "answer": "Emergency protocols activated. Please visit the nearest casualty or call 112/108."
+  },
+  {
+    "id": 3,
+    "intent": "appointment_booking",
+    "question": "how to book appointment doctor consultation",
+    "keywords": "appointment booking",
+    "answer": "You can book appointments online via our portal or at the hospital reception counter."
+  },
+  {
+    "id": 4,
+    "intent": "department_enquiry",
+    "question": "department location OPD timings floor",
+    "keywords": "department floor OPD",
+    "answer": "All OPD departments are located on Ground and First floors. Timings are 9 AM to 4 PM."
+  },
+  {
+    "id": 5,
+    "intent": "doctor_availability",
+    "question": "is doctor available today schedule",
+    "keywords": "doctor availability today",
+    "answer": "Doctor availability varies daily. Please check the department notice board or call reception."
+  },
+  {
+    "id": 6,
+    "intent": "report_enquiry",
+    "question": "how to get lab test report X ray MRI",
+    "keywords": "report lab test",
+    "answer": "Lab reports can be collected from the Ground Floor reporting counter or downloaded online."
+  },
+  {
+    "id": 7,
+    "intent": "billing_insurance",
+    "question": "bill payment insurance TPA cashless",
+    "keywords": "billing insurance TPA",
+    "answer": "Our billing desk supports cash, card, UPI, and approved cashless TPA insurance networks."
+  },
+  {
+    "id": 8,
+    "intent": "general_greeting_other",
+    "question": "hello hi helpdesk greetings",
+    "keywords": "hello hi greetings",
+    "answer": "Hello! Welcome to Healthcare Helpdesk Decision Support System. How can we assist you today?",
+    "default": true
+  }
+]
